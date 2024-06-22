@@ -11,7 +11,7 @@ const Footer = () => {
                     
                     <div className='info_footer'>
                         <Link to='/'>
-                            <img src="src\multimedia\logonegro_T.png" alt="none" />
+                            <img src="\src\multimedia\logonegro_T.png" alt="none" />
                         </Link>
                         <ul>
                             <li>

@@ -25,7 +25,7 @@ const Home = () => {
                 
                 <div className="palabra_video">
                     <video autoPlay muted preload loop
-                        src='src/multimedia/vid1.mp4' 
+                        src='\src/multimedia/vid1.mp4' 
                     ></video>
                     <h1>MUJER</h1>
                 </div>
@@ -63,7 +63,7 @@ const Home = () => {
                     </p>
                 </div>
                 <div className='frase_home'>
-                    <img src="src\images\banner2.jpg" alt="frase_home" />
+                    <img src="\src\images\banner2.jpg" alt="frase_home" />
                     
                 </div>
                 <div className='alta_costura_home1'>
@@ -78,7 +78,7 @@ const Home = () => {
                 <div className='alta_costura_home2'>
                     <div className="palabra_video">
                         <video autoPlay muted preload loop
-                            src='src\multimedia\video_ACostura.mp4' 
+                            src='\src\multimedia\video_ACostura.mp4' 
                         ></video>
                         <h1>ALTA COSTURA</h1>
                     </div>
@@ -91,7 +91,7 @@ const Home = () => {
                 </div>
                 <div className="info_novedades_home">
                     <ReactPlayer
-                        url='src\multimedia\video_presentacion.mp4'
+                        url='\src\multimedia\video_presentacion.mp4'
                         light
                         controls
                         autoPlay

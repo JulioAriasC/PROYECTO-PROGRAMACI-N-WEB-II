@@ -25,7 +25,7 @@ const Moda = () => {
                 </div>
                 <div className='main3'>
                         <ReactPlayer 
-                            url='src\multimedia\video2.mp4'
+                            url='\src\multimedia\video2.mp4'
                             controls
                             light
                             loop
@@ -33,11 +33,11 @@ const Moda = () => {
                         ></ReactPlayer>
                 </div>
                 <div className='main4'>
-                    <img src="src\images\banner3.jpg" alt="main4" />
+                    <img src="\src\images\banner3.jpg" alt="main4" />
                 </div>
                 <div className='main10'>
                         <ReactPlayer 
-                            url='src\multimedia\video_moda1.mp4'
+                            url='\src\multimedia\video_moda1.mp4'
                             controls
                             light
                             loop
