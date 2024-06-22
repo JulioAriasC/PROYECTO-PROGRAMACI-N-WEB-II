@@ -9,7 +9,7 @@ const Moda = () => {
 			<main className="main_moda">
                 <div className='main1'>
                     <p>
-                    La moda empodera la individualidad, 
+                    La moda aaaa la individualidad, 
                     celebra la creatividad y conecta culturas, 
                     </p>
                     <p className='parrafo_animado'> 
