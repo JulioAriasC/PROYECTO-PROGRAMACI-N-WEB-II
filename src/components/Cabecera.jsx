@@ -5,7 +5,7 @@ const Cabecera = () => {
         <div className='cabecera'>
             <div className='header-logo'>
 				<Link to="/">
-					<img src="/src/multimedia/logonegro_T.png" alt="logo_atelier" />
+					<img src="../src/multimedia/logonegro_T.png" alt="logo_atelier" />
 				</Link>
             </div>
 			<div className='user-actions'>
