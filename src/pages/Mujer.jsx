@@ -22,10 +22,10 @@ const Mujer = () => {
                     <Video_Presentacion/>
                 </div>
                 <div className="m_mujer3">
-                    <img src="/src/images/banner1.jpg" alt="banner1" />
+                    <img src="images/banner1.jpg" alt="banner1" />
                 </div>
                 <div className="m_mujer4">
-                    <img src="/src/images/m_mujer3.jpg" alt="m_mujer4" />
+                    <img src="images/m_mujer3.jpg" alt="m_mujer4" />
                 </div>
                 <div className="m_mujer5">
                     <p>
@@ -41,20 +41,20 @@ const Mujer = () => {
                 </div>
                 <div className="m_mujer6">
                     <section className='galery_images'>
-                        <img src="/src/images/18_lite.jpg" alt="" />
-                        <img src="/src/images/11_lite.jpg" alt="" />
-                        <img src="/src/images/9_lite.jpg" alt="" />
-                        <img src="/src/images/20_lite.jpg" alt="" />
-                        <img src="/src/images/19_lite.jpg" alt="" />
-                        <img src="/src/images/15_lite.jpg" alt="" />
+                        <img src="images/18_lite.jpg" alt="" />
+                        <img src="images/11_lite.jpg" alt="" />
+                        <img src="images/9_lite.jpg" alt="" />
+                        <img src="images/20_lite.jpg" alt="" />
+                        <img src="images/19_lite.jpg" alt="" />
+                        <img src="images/15_lite.jpg" alt="" />
                     </section>
                 </div>
                 <div className="m_mujer7">
-                    <img src="/src/images/m_mujer2.jpg" alt="m_mujer2" />
+                    <img src="images/m_mujer2.jpg" alt="m_mujer2" />
 
                 </div>
                 <div className="m_mujer8">
-                    <img src="/src/images/m_mujer5.avif" alt="m_mujer8" height='400px' />
+                    <img src="images/m_mujer5.avif" alt="m_mujer8" height='400px' />
                 </div>
            
             </main>

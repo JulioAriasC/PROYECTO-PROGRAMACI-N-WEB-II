@@ -27,15 +27,15 @@ const Alta_Costura = () => {
                     </p>
                 </div>
                 <div className='m_ACostura3'>
-                    <img src="\src\images\m_ACostura10.jpg" alt="m_ACostura3" />
+                    <img src="images/m_ACostura10.jpg" alt="m_ACostura3" />
                 </div>
                 <div className='m_ACostura4'>
-                    <img src="\src\images\m_ACostura11.jpg" alt="m_ACostura4" />
+                    <img src="images/m_ACostura11.jpg" alt="m_ACostura4" />
                 </div>
                 <div className='m_ACostura5'>
-                    <img src="\src\images\m_ACostura2.jpg" alt="m_ACostura5" />
-                    <img src="\src\images\m_ACostura5.jpg" alt="m_ACostura5" />
-                    <img src="\src\images\m_ACostura8.jpg" alt="m_ACostura5" />
+                    <img src="images/m_ACostura2.jpg" alt="m_ACostura5" />
+                    <img src="images/m_ACostura5.jpg" alt="m_ACostura5" />
+                    <img src="images/m_ACostura8.jpg" alt="m_ACostura5" />
                 </div>
                 <div className='m_ACostura6'>
                     <p > 
@@ -53,14 +53,14 @@ const Alta_Costura = () => {
                     </p>
                 </div>
                 <div className='m_ACostura9'>
-                    <img src="\src\images\3_lite.jpg" alt="" />
+                    <img src="images/3_lite.jpg" alt="" />
                 </div>
                 <div className='m_ACostura10'>
-                    <img src="\src\images\6_lite.jpg"  alt="" />
+                    <img src="images/6_lite.jpg"  alt="" />
 
                 </div>
                 <div className='m_ACostura11'>
-                    <img src="\src\images\7_lite.jpg" alt="" />
+                    <img src="images/7_lite.jpg" alt="" />
                 </div>
             </main>
             <Footer/>

@@ -8,7 +8,7 @@
 }
 
 body {
-	background-image: url('/src/images/fondo.jpg');
+	background-image: url('/images/fondo.jpg');
 	margin: 0 auto;
 	max-width: 1400px;
 	font-family: 'Quicksand';
@@ -453,16 +453,16 @@ button::before{
 
 @keyframes banner{
 	0%, 25%{
-		background-image: url(../src/images/1_lite.jpg);
+		background-image: url(../images/1_lite.jpg);
 	}
 	25%, 50%{
-		background-image: url(../src/images/2_lite.jpg);
+		background-image: url(../images/2_lite.jpg);
 	}
 	50%, 75%{
-		background-image: url(../src/images/3_lite.jpg);
+		background-image: url(../images/3_lite.jpg);
 	}
 	75%, 100%{
-		background-image: url(../src/images/4_lite.jpg);
+		background-image: url(../images/4_lite.jpg);
 	}
 }
 .capa{
@@ -691,11 +691,11 @@ button::before{
 	border: 3px solid black; */
 }
 
-/*escritura animada*/
+/*escritura animada MODA */
 .main1:first-child{
 	font-size: 50px;
 	font-family: monospace ;
-	background-image: url('src/images/dis1.jpg');
+	background-image: url('/images/dis1.jpg');
 }
 .parrafo_animado {
 	display: block;
@@ -711,7 +711,7 @@ button::before{
 	font-size: 50px;
 	font-family: monospace ;
 
-	background-image: url('src/images/m_mujer4.jpg') ;
+	background-image: url('/images/m_mujer4.jpg') ;
 }
 .m_mujer1{
 	display: flex;
@@ -738,11 +738,12 @@ button::before{
 	justify-content: center;
 	flex-direction: column;
 }
+/*escritura animada HOMBRE*/
 .m_hombre1:first-child{
 	font-size: 50px;
 	font-family: monospace ;
 	color: rgb(233, 233, 233);
-	background-image: url('src/images/m_hombre9.jpg') ;
+	background-image: url('/images/m_hombre9.jpg') ;
 	text-shadow: 7px 7px 4px rgba(0, 0, 0, 0.5);
 }
 .m_hombre1:last-child{
@@ -1081,7 +1082,7 @@ button::before{
 	width: 1600px;
 
 }
-/*parrafo animado 4*/
+/*parrafo animado 4 ALTA COSTURA*/
 .m_ACostura1{
 	display: flex;
 	justify-content: center;
@@ -1092,7 +1093,7 @@ button::before{
 	font-size: 50px;
 	font-family: monospace ;
 	color: #fff;
-	background-image: url('src/images/m_ACostura4.jpg');
+	background-image: url('/images/m_ACostura4.jpg');
 	text-align: center;
 	text-shadow: 7px 7px 4px rgba(0, 0, 0, 0.5);
 

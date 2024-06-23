@@ -27,19 +27,19 @@ const Hombre = () => {
                 </p>
             </div>
             <div className="m_hombre3">
-                <img src="\src\images\m_hombre6.webp"  alt="m_hombre2" />
+                <img src="images/m_hombre6.webp"  alt="m_hombre2" />
 
             </div>
             <div className="m_hombre4">
-                <img src="\src\images\m_hombre8.jpg"  alt="m_hombre4" />
+                <img src="images/m_hombre8.jpg"  alt="m_hombre4" />
             </div>
             <div className="m_hombre5">
-                <img src="\src\images\m_hombre7.jpg" alt="m_hombre5" />
-                <img src="\src\images\m_hombre10.jpg" alt="m_hombre5" />
-                <img src="\src\images\m_hombre12.jpg"alt="m-hombre5" />
+                <img src="images/m_hombre7.jpg" alt="m_hombre5" />
+                <img src="images/m_hombre10.jpg" alt="m_hombre5" />
+                <img src="images/m_hombre12.jpg"alt="m-hombre5" />
             </div>
             <div className="m_hombre6">
-                <img src="\src\images\m_hombre2.jpg" alt="m_hombre6" />
+                <img src="images/m_hombre2.jpg" alt="m_hombre6" />
             </div>
 
             <div className="m_hombre8">
@@ -48,10 +48,10 @@ const Hombre = () => {
                 </p>
             </div>
             <div className="m_hombre9">
-                <img src="\src\images\m_hombre5.webp" height='700px' alt="m_hombre9" />
+                <img src="images/m_hombre5.webp" height='700px' alt="m_hombre9" />
             </div>
             <div className="m_hombre10">
-                <img src="\src\images\m_hombre4.jpg" alt="m_hombre10" />
+                <img src="images/m_hombre4.jpg" alt="m_hombre10" />
             </div>
             <div className="m_hombre11">
                 <p>
