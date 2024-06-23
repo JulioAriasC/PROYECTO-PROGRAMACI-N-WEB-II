@@ -94,7 +94,7 @@ const Home = () => {
                         url='/src/multimedia/video_presentacion.mp4'
                         light
                         controls
-                        autoPlay
+                        playing
                         volume='0.3'
                     >
                     </ReactPlayer>                
